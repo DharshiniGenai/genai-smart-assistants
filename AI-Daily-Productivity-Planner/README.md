@@ -207,12 +207,6 @@ python productivity_planner.py
 
 The application will ask for productivity-related details and then generate a personalized daily schedule automatically.
 
-📂 Project Structure
-AI-Daily-Productivity-Planner/
-│
-├── productivity_planner.py
-├── requirements.txt
-└── README.md
 🎯 Learning Outcomes
 
 This project helps in understanding:
